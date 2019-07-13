@@ -35,3 +35,7 @@ def while_iterator(number_of_times)
     count += 1
   end
 end
+
+def until_iterator 
+  
+end 
