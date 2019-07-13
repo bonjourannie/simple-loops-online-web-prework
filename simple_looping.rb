@@ -43,5 +43,4 @@ def until_iterator
     puts phrase
     count += 1
   end
-end
 end 
